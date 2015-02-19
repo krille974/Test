@@ -1,3 +1,0 @@
-RotEncoder	KEYWORD1
-getRot	KEYWORD2
-setRot	KEYWORD2
